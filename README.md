@@ -10,4 +10,8 @@ What is React?
 
 What is JSX? ES6?
 
+## [Day 3](https://github.com/cuongw/30-days-of-react/tree/master/day3)
+
+First Components
+
 *Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges.*
