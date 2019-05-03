@@ -14,4 +14,8 @@ What is JSX? ES6?
 
 First Components
 
-*Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges.*
+## [Day 4](https://github.com/cuongw/30-days-of-react/tree/master/day4)
+
+Complex Components
+
+_Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
