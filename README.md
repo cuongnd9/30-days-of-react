@@ -26,4 +26,8 @@ Data-driven components
 
 State
 
+## [Day 7](https://github.com/cuongw/30-days-of-react/tree/master/day7)
+
+Lifecycle Hooks
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
