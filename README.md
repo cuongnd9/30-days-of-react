@@ -30,4 +30,8 @@ State
 
 Lifecycle Hooks
 
+## [Day 8](https://github.com/cuongw/30-days-of-react/tree/master/day8)
+
+Packaging and PropTypes
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
