@@ -1,0 +1,14 @@
+.clock-container {
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  background-color: #2EE59D;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+}
+
+.clock-container:hover {
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+}
