@@ -2,39 +2,39 @@
 
 🌲🚀 30 Days of React
 
-## [Day 1](https://github.com/cuongw/30-days-of-react/tree/master/day1)
+## [Day 1](https://github.com/cuongw/30-days-of-react/tree/master/day01)
 
 What is React?
 
-## [Day 2](https://github.com/cuongw/30-days-of-react/tree/master/day2)
+## [Day 2](https://github.com/cuongw/30-days-of-react/tree/master/day02)
 
 What is JSX? ES6?
 
-## [Day 3](https://github.com/cuongw/30-days-of-react/tree/master/day3)
+## [Day 3](https://github.com/cuongw/30-days-of-react/tree/master/day03)
 
 First Components
 
-## [Day 4](https://github.com/cuongw/30-days-of-react/tree/master/day4)
+## [Day 4](https://github.com/cuongw/30-days-of-react/tree/master/day04)
 
 Complex Components
 
-## [Day 5](https://github.com/cuongw/30-days-of-react/tree/master/day5)
+## [Day 5](https://github.com/cuongw/30-days-of-react/tree/master/day05)
 
 Data-driven components
 
-## [Day 6](https://github.com/cuongw/30-days-of-react/tree/master/day6)
+## [Day 6](https://github.com/cuongw/30-days-of-react/tree/master/day06)
 
 State
 
-## [Day 7](https://github.com/cuongw/30-days-of-react/tree/master/day7)
+## [Day 7](https://github.com/cuongw/30-days-of-react/tree/master/day07)
 
 Lifecycle Hooks
 
-## [Day 8](https://github.com/cuongw/30-days-of-react/tree/master/day8)
+## [Day 8](https://github.com/cuongw/30-days-of-react/tree/master/day08)
 
 Packaging and PropTypes
 
-## [Day 9](https://github.com/cuongw/30-days-of-react/tree/master/day9)
+## [Day 9](https://github.com/cuongw/30-days-of-react/tree/master/day09)
 
 Styles
 
