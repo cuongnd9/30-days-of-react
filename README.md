@@ -42,4 +42,8 @@ Styles
 
 Interactivity
 
+## [Day 11](https://github.com/cuongw/30-days-of-react/tree/master/day11)
+
+Pure Components
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
