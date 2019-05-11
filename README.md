@@ -46,4 +46,8 @@ Interactivity
 
 Pure Components
 
+## [Day 12](https://github.com/cuongw/30-days-of-react/tree/master/day12)
+
+create-react-app
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
