@@ -54,4 +54,8 @@ create-react-app
 
 Repeating Elements
 
+## [Day 14](https://github.com/cuongw/30-days-of-react/tree/master/day14)
+
+Fetching Remote Data
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
