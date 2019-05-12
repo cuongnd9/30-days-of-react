@@ -50,4 +50,8 @@ Pure Components
 
 create-react-app
 
+## [Day 13](https://github.com/cuongw/30-days-of-react/tree/master/day13)
+
+Repeating Elements
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
