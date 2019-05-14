@@ -62,4 +62,8 @@ Fetching Remote Data
 
 Promises
 
+## [Day 16](https://github.com/cuongw/30-days-of-react/tree/master/day16)
+
+Displaying Remote Data
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
