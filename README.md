@@ -66,4 +66,8 @@ Promises
 
 Displaying Remote Data
 
+## [Day 17](https://github.com/cuongw/30-days-of-react/tree/master/day17)
+
+Client-side Routing
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
