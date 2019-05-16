@@ -70,4 +70,8 @@ Displaying Remote Data
 
 Client-side Routing
 
+## [Day 18](https://github.com/cuongw/30-days-of-react/tree/master/day18)
+
+Introduction to Flux
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
