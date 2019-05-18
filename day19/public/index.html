@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/bootstrap.min.css">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Todo App</title>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand">Todo App</a>
+            </div>
+    
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="%PUBLIC_URL%/">Home</a></li>
+                    <li><a href="https://github.com/ndc07">Donate</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://github.com/ndc07">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <footer class="page-footer font-small special-color-dark pt-4">
+      <div class="container">
+        <ul class="list-unstyled list-inline text-center">
+          <li class="list-inline-item">
+            <a class="btn-floating btn-fb mx-1" href="https://www.facebook.com/ndc07.it">
+              <i class="fa fa-facebook" style="color: #21C65E"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="btn-floating btn-tw mx-1" href="https://www.facebook.com/ndc07.it">
+              <i class="fa fa-twitter" style="color: #21C65E"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="btn-floating btn-gplus mx-1" href="https://www.facebook.com/ndc07.it">
+              <i class="fa fa-google-plus" style="color: #21C65E"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="btn-floating btn-li mx-1" href="https://www.facebook.com/ndc07.it">
+              <i class="fa fa-linkedin" style="color: #21C65E"> </i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="btn-floating btn-dribbble mx-1" href="https://www.facebook.com/ndc07.it">
+              <i class="fa fa-dribbble" style="color: #21C65E"> </i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-copyright text-center py-3">© 2018 Copyright:
+        <a href="https://github.com/ndc07"  style="color: #21C65E"> ndc07</a>
+      </div>
+    </footer>
+    <script type="text/javascript" src="%PUBLIC_URL%/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="%PUBLIC_URL%/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -74,4 +74,8 @@ Client-side Routing
 
 Introduction to Flux
 
+## [Day 19](https://github.com/cuongw/30-days-of-react/tree/master/day19)
+
+Data Management with Redux
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
