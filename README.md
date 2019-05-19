@@ -82,4 +82,8 @@ Data Management with Redux
 
 Redux actions
 
+## [Day 21](https://github.com/cuongw/30-days-of-react/tree/master/day21)
+
+Redux Middleware
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
