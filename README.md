@@ -78,4 +78,8 @@ Introduction to Flux
 
 Data Management with Redux
 
+## [Day 20](https://github.com/cuongw/30-days-of-react/tree/master/day20)
+
+Redux actions
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
