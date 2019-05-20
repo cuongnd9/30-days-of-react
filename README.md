@@ -86,4 +86,8 @@ Redux actions
 
 Redux Middleware
 
+## [Day 22](https://github.com/cuongw/30-days-of-react/tree/master/day22)
+
+Introduction to Testing
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
