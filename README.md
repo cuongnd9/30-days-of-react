@@ -106,4 +106,8 @@ Better Testing with Enzyme
 
 Integration Testing
 
+## [Day 27](https://github.com/cuongw/30-days-of-react/tree/master/day27)
+
+Deployment Introduction
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
