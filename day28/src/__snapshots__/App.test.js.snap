@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly in "debug" mode 1`] = `
+<BrowserRouter>
+  <nav
+    id="main-mobile-nav"
+  />
+  <div
+    className="wrapper"
+  >
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <Route
+        component={[Function]}
+        path="/showtimes"
+      />
+      <Route
+        component={[Function]}
+        path="/movies/:id"
+      />
+      <Route
+        component={[Function]}
+        path="/contact"
+      />
+      <Route
+        component={[Function]}
+      />
+    </Switch>
+    <_default />
+  </div>
+  <_default />
+  <div
+    className="small-dialog zoom-anim-dialog mfp-hide"
+    id="login-register-popup"
+  >
+    <_default />
+    <_default />
+    <_default />
+  </div>
+  <_default />
+</BrowserRouter>
+`;

@@ -110,4 +110,8 @@ Integration Testing
 
 Deployment Introduction
 
+## [Day 28](https://github.com/cuongw/30-days-of-react/tree/master/day28)
+
+Deployment
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
