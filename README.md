@@ -102,4 +102,8 @@ Testing the App
 
 Better Testing with Enzyme
 
+## [Day 26](https://github.com/cuongw/30-days-of-react/tree/master/day26)
+
+Integration Testing
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
