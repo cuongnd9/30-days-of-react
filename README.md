@@ -98,4 +98,8 @@ Implementing Tests
 
 Testing the App
 
+## [Day 25](https://github.com/cuongw/30-days-of-react/tree/master/day25)
+
+Better Testing with Enzyme
+
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
